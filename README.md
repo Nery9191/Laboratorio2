@@ -12,10 +12,10 @@
 
 *Se utiliza Switch ya que solo son cuatro opciones, por lo que no se hace tan extenso el codigo y a mi punto de vista es comprensible*
 
-###Enunciado 2: Día de la semana
+### Enunciado 2: Día de la semana
 
 *Se uso un case para que se mas practico el codigo, y cuando se reconoczca el numero correspondiente al dia asignado regresara una cadena de texto con el dia correspondiente*
 
-###Enunciado 3: Verificación de acceso
+### Enunciado 3: Verificación de acceso
 *En este script se usaron else if para realizar la comprobacion de las contraseñas, como dato curioso no logre realizar que no validara la contraseña, aunque se ingrese cualquier cadena de texto siempre hace login*
 
