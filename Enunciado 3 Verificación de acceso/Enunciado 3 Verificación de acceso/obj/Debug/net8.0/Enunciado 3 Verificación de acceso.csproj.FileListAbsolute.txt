@@ -1,0 +1,15 @@
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.AssemblyInfoInputs.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.AssemblyInfo.cs
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.csproj.CoreCompileInputs.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.sourcelink.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\bin\Debug\net8.0\Enunciado 3 Verificación de acceso.exe
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\bin\Debug\net8.0\Enunciado 3 Verificación de acceso.deps.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\bin\Debug\net8.0\Enunciado 3 Verificación de acceso.runtimeconfig.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\bin\Debug\net8.0\Enunciado 3 Verificación de acceso.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\bin\Debug\net8.0\Enunciado 3 Verificación de acceso.pdb
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\refint\Enunciado 3 Verificación de acceso.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.pdb
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\Enunciado 3 Verificación de acceso.genruntimeconfig.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 3 Verificación de acceso\Enunciado 3 Verificación de acceso\obj\Debug\net8.0\ref\Enunciado 3 Verificación de acceso.dll

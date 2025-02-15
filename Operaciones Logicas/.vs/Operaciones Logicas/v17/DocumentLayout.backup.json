@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\p1bclase2\\Laboratorio2\\Laboratorio2\\Operaciones Logicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235A5E86-33C7-4845-92CF-A79BCED982F4}|Operaciones Logicas\\Operaciones Logicas.csproj|c:\\p1bclase2\\laboratorio2\\laboratorio2\\operaciones logicas\\operaciones logicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235A5E86-33C7-4845-92CF-A79BCED982F4}|Operaciones Logicas\\Operaciones Logicas.csproj|solutionrelative:operaciones logicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\p1bclase2\\Laboratorio2\\Laboratorio2\\Operaciones Logicas\\Operaciones Logicas\\Program.cs",
+              "RelativeDocumentMoniker": "Operaciones Logicas\\Program.cs",
+              "ToolTip": "C:\\p1bclase2\\Laboratorio2\\Laboratorio2\\Operaciones Logicas\\Operaciones Logicas\\Program.cs*",
+              "RelativeToolTip": "Operaciones Logicas\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:45:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

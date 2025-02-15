@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\p1bclase2\\Laboratorio2\\Laboratorio2\\Declaraci\u00F3n y Uso de Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36061B7E-4A49-4053-957D-64970986D2E2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\p1bclase2\\laboratorio2\\laboratorio2\\declaraci\u00F3n y uso de variables\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36061B7E-4A49-4053-957D-64970986D2E2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\p1bclase2\\Laboratorio2\\Laboratorio2\\Declaraci\u00F3n y Uso de Variables\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\p1bclase2\\Laboratorio2\\Laboratorio2\\Declaraci\u00F3n y Uso de Variables\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:48:55.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.AssemblyInfoInputs.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.AssemblyInfo.cs
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.csproj.CoreCompileInputs.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.sourcelink.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\bin\Debug\net8.0\Enunciado 1 Clasificación de edad.exe
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\bin\Debug\net8.0\Enunciado 1 Clasificación de edad.deps.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\bin\Debug\net8.0\Enunciado 1 Clasificación de edad.runtimeconfig.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\bin\Debug\net8.0\Enunciado 1 Clasificación de edad.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\bin\Debug\net8.0\Enunciado 1 Clasificación de edad.pdb
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\refint\Enunciado 1 Clasificación de edad.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.pdb
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\Enunciado 1 Clasificación de edad.genruntimeconfig.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 1 Clasificación de edad\Enunciado 1 Clasificación de edad\obj\Debug\net8.0\ref\Enunciado 1 Clasificación de edad.dll

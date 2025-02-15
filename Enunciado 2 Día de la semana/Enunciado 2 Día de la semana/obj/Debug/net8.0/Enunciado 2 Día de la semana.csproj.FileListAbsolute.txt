@@ -1,0 +1,15 @@
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.AssemblyInfoInputs.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.AssemblyInfo.cs
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.csproj.CoreCompileInputs.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.sourcelink.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\bin\Debug\net8.0\Enunciado 2 Día de la semana.exe
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\bin\Debug\net8.0\Enunciado 2 Día de la semana.deps.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\bin\Debug\net8.0\Enunciado 2 Día de la semana.runtimeconfig.json
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\bin\Debug\net8.0\Enunciado 2 Día de la semana.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\bin\Debug\net8.0\Enunciado 2 Día de la semana.pdb
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\refint\Enunciado 2 Día de la semana.dll
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.pdb
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\Enunciado 2 Día de la semana.genruntimeconfig.cache
+C:\p1bclase2\Laboratorio2\Laboratorio2\Enunciado 2 Día de la semana\Enunciado 2 Día de la semana\obj\Debug\net8.0\ref\Enunciado 2 Día de la semana.dll
